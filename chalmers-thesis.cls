@@ -563,7 +563,7 @@
  \fi
  \vskip 1.5em
  {\renewcommand{\and}{\\}\Large\noindent \MakeUppercase{\@author}\par}% 18
- \vskip 4.5em
+ \vfill
  \hrule\vspace{2mm}
  {\small\noindent\@department\\
   \@ifundefined{@division}{}{\@division\\}
